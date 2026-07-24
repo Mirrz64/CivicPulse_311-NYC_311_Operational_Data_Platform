@@ -3,3 +3,15 @@ venviron
 data
 .astro
 airflow_settings.yml
+**/__pycache__/
+*.pyc
+plugins
+credentials.sh
+dags/__pycache__
+file.txt
+tests
+.terraform
+*.hcl
+credentials.txt
+*.tfstate
+*.tfstate.backup

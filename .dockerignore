@@ -6,3 +6,14 @@ logs/
 .venv
 airflow.db
 airflow.cfg
+credentials.sh
+dags/__pycache__/*
+file.txt
+tests
+.terraform
+*.hcl
+credentials.txt
+*.tfstate
+*.tfstate.backup
+**/__pycache__/
+*.pyc
