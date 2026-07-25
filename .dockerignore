@@ -17,3 +17,4 @@ credentials.txt
 *.tfstate.backup
 **/__pycache__/
 *.pyc
+*.tfvars

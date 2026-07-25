@@ -15,3 +15,4 @@ tests
 credentials.txt
 *.tfstate
 *.tfstate.backup
+*.tfvars
